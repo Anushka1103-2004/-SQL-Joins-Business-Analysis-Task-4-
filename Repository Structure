@@ -1,0 +1,8 @@
+sql-joins-business-analysis/
+│
+├── README.md
+├── joins_queries.sql
+├── joined_output.csv
+├── insights.txt
+└── screenshots/
+    └── db_loaded.png   (optional)
